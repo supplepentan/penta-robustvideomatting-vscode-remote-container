@@ -4,7 +4,8 @@ git clone https://github.com/supplepentan/penta-robustvideomatting-vscode-remote
 cd penta-robustvideomatting-vscode-remote-container.git
 ```
 # Visual Studio Code
-Open this folder, and "Reopen in container".
+Using Visual Studio Code,
+Open this folder and "Reopen in container".
 
 # command
 ```
