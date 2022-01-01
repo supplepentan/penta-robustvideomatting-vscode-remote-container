@@ -1,0 +1,10 @@
+venv/
+output/
+input/
+__pycache__/
+.vscode/
+README_zh_Hans.md
+requirements_inference.txt
+requirements_training.txt
+set_1.py
+refer.txt
